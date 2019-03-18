@@ -4,3 +4,4 @@
       
       Here the DHT11 senses temperature, the microcontroller(ATMEGA328P) reads the dht11 sensor module’s output and extracts temperature value into a suitable number in Celsius scale and control the fan speed by using PWM. Also the data is displayed on the LCD
      
+![](Temperature-Controlled-Fan-.jpg)
